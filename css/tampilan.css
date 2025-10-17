@@ -31,7 +31,7 @@ h1 {
 
 
 form {
-    width: 100%;
+    width: 150%;
 }
 
 table {
@@ -118,4 +118,5 @@ p {
     color: #2c5aa0;
     font-weight: bold;
     margin-bottom: 15px;
+
 }
